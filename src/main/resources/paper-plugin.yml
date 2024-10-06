@@ -1,0 +1,4 @@
+name: shub
+version: '1.0-SNAPSHOT'
+main: lol.stompy.shub.Shub
+api-version: '1.21'

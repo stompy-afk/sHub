@@ -1,0 +1,12 @@
+queue-priority: #lower priority -> first in the queue
+  rank1:
+    permission: ""
+    priority: 0
+
+queues:
+  skyblock: #name of the queue /join <name>
+    size: 250
+    server: "skyblock"
+  skywars:
+    size: 250
+    server: "skywars"

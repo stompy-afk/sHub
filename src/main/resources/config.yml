@@ -1,0 +1,35 @@
+papi-support: true
+double-jump: true
+
+spawn:
+
+welcome-message:
+  - "&7-------------------"
+  - "&fWelcome to &asHub &7(stompy hub)"
+  - " "
+  - "&7find my discord - stompyafk"
+  - "&7-------------------"
+
+scoreboard:
+  title: "&a&lsHub"
+  notqueue:
+    lines:
+      - "&7-------------------"
+      - "&a&lUsername&f: <player>"
+      - " "
+      - "&a&lQueue"
+      - "&fNot in queue"
+      - " "
+      - "&7stompy.lol"
+      - "&7-------------------"
+  queue:
+   lines:
+      - "&7-------------------"
+      - "&a&lUsername&f: <player>"
+      - " "
+      - "&a&lQueue"
+      - "&aName&f: <queue_name>"
+      - "&aQueue Placement&f: <queue_placement>"
+      - " "
+      - "&7stompy.lol"
+      - "&7-------------------"
